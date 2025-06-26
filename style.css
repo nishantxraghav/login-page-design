@@ -15,7 +15,7 @@ body{
     align-items: center;
     display: flex;
     min-height: 100vh;
-    background: url(images/img.jpg);
+    background: url(img.jpg);
 }
 .wrapper{
     width: 420px;
